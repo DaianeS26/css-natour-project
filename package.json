@@ -1,7 +1,7 @@
 {
-  "name": "natour_website",
+  "name": "css-natour-project",
   "version": "1.0.0",
-  "description": "Landing page for natours",
+  "description": "css project",
   "main": "index.js",
   "scripts": {
     "compile:sass": "node-sass sass/main.scss css/style.css -w"
@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/DaianeS26/css-natour-project.git"
   },
+  "keywords": [
+    "css"
+  ],
   "author": "Daiane",
   "license": "ISC",
   "bugs": {
